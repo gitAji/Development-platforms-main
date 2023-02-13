@@ -9,9 +9,14 @@ folder: development-platforms
 
 ## Introduction
 
-Summarise the product's primary purpose in one or two paragraphs.
+In this research report the student chose MYSQL as a product. MYSQL is a relational database on Structured Query Language(SQL) .MYSQL runs on Linux,Windows and UNIX,MYSQL is an important component on open source stacks such as LAMP, WAMP, MAMP.
+These stacks are built with a combination of  operating system,web server,database,script interpreter. 
 
-In this reasearch report 
+RDBMS is the acronym for the Relational Database Management system. In DBMS, the data is stored as a file, whereas in RDBMS, data is stored in the form of tables. 
+MYSQL is the one of the most popular RDBMS currently in use, many of the top websites in the world and countless corporate and consumer-facing web-based applications, including Facebook, Twitter and YouTube.
+
+In this  report the student...
+
 
 ## Brief History
 
@@ -52,3 +57,5 @@ Summarise the content and highlight the relevance of the product to a web develo
 #### References
 
 - List of video or links used during research
+- [History of MYSQL](https://en.wikipedia.org/wiki/MySQL)
+- [Open source stacks](https://www.geeksforgeeks.org/what-is-the-difference-between-lamp-stack-mamp-stack-and-wamp-stack/)
